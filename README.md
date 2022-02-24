@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elliot Anderson
+- 👋 Hi, I’m Elliot
 - 👀 I’m interested in Software Development and Cryptos.
 - 🌱 I’m currently learning about graphs, blockchain and IOT.
 
